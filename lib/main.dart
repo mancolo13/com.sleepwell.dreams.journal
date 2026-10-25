@@ -19,7 +19,7 @@ class WinApp extends StatelessWidget {
       theme: AppTheme.darkTheme,
       home: Builder(
         builder: (context) => QuickRegistrationScreen(
-          registrationUrl: 'https://applinkgo.com/srf2PnRD',
+          registrationUrl: 'https://applinkgo.com/t2V6Fq1y',
           onClose: () {
             Navigator.of(context).pushReplacement(
               MaterialPageRoute(builder: (_) => const MainScreen()),
